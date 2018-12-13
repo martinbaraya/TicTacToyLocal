@@ -12,7 +12,7 @@ It's a private project developed by using Kotlin.
 - Click on "Open an existing Android Studio project" and choose the folder
 - Run app
 
-## The Role of Game
+## Game Roles
 you'll play this game against the Android and The goal is to get as many tic-tac-toes (three chips in a row—horizontally or vertically
 
 ## Screenshots
